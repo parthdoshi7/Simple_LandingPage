@@ -16,6 +16,7 @@ Welcome to my CODSOFT internship project repository! 🚀 This repository showca
 I intentionally kept this project at the "beginner's level," making it a breeze for me! Easy peasy coding! 
 
 ## Explore the Project:
+- [Live Project](https://parthdoshi7.github.io/CODSOFT_Intern_Simple_LandingPage/)
 - [GitHub Profile](https://github.com/parthdoshi7)
 
 # Credits:
